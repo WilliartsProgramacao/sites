@@ -1,0 +1,24 @@
+/* 
+    Document    :  w-obra.css
+    Created on  :  25/07/2013
+    Author      :  Wime
+    Description :  This stylesheets aims to format the forms this plugin.
+*/
+
+#w-obra-list #obra_cover { width: 160px; }
+#w-obra-list #obra_date { width: 160px; }
+
+#w-obra-form .postbox .hndle { cursor: default; }
+#w-obra-form .postbox #obra_name { width: 70%; }
+#w-obra-form .postbox #obra_description { width: 100%; }
+#w-obra-form .postbox #w_image_upload { margin-top: 10px; }
+#w-obra-form .postbox #w_image_upload img { border: 3px solid #ddd; }
+#w-obra-form .postbox .button-upload { padding-top: 3px; padding-bottom: 3px; height: auto; }
+#w-obra-form .postbox .button-upload .dashicons { padding: 3px 0; }
+#w-obra-form .postbox .btn-link-remove { padding: 8px 12px; display: inline-block; }
+#w-obra-form .postbox .submit { padding: 0; }
+#w-obra-form .column-ID{ width: 50px; }
+#w-obra-form .column-picture{ width: 110px; }
+#w-obra-form .column-filename{ width: 250px; }
+#w-obra-form .column-action{ width: 100px; }
+#w-obra-form .picture_description{ width: 100%; height: 60px; }
