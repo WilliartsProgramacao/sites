@@ -1,0 +1,24 @@
+/* 
+    Document    :  wm-event.css
+    Created on  :  25/07/2013
+    Author      :  Wime
+    Description :  This stylesheets aims to format the forms this plugin.
+*/
+
+#wm-event-list #event_cover { width: 160px; }
+#wm-event-list #event_date { width: 160px; }
+
+#wm-event-form .postbox .hndle { cursor: default; }
+#wm-event-form .postbox #event_name { width: 70%; }
+#wm-event-form .postbox #event_description { width: 100%; }
+#wm-event-form .postbox #wm_image_upload { margin-top: 10px; }
+#wm-event-form .postbox #wm_image_upload img { border: 3px solid #ddd; }
+#wm-event-form .postbox .button-upload { padding-top: 3px; padding-bottom: 3px; height: auto; }
+#wm-event-form .postbox .button-upload .dashicons { padding: 3px 0; }
+#wm-event-form .postbox .btn-link-remove { padding: 8px 12px; display: inline-block; }
+#wm-event-form .postbox .submit { padding: 0; }
+#wm-event-form .column-ID{ width: 50px; }
+#wm-event-form .column-picture{ width: 110px; }
+#wm-event-form .column-filename{ width: 250px; }
+#wm-event-form .column-action{ width: 100px; }
+#wm-event-form .picture_description{ width: 100%; height: 60px; }
