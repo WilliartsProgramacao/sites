@@ -1,0 +1,24 @@
+/* 
+    Document    :  w-client.css
+    Created on  :  25/07/2013
+    Author      :  Williarts
+    Description :  This stylesheets aims to format the forms this plugin.
+*/
+
+#w-client-list #client_cover { width: 160px; }
+#w-client-list #client_date { width: 160px; }
+
+#w-client-form .postbox .hndle { cursor: default; }
+#w-client-form .postbox #client_name { width: 70%; }
+#w-client-form .postbox #client_description { width: 100%; }
+#w-client-form .postbox #wm_image_upload { margin-top: 10px; }
+#w-client-form .postbox #wm_image_upload img { border: 3px solid #ddd; }
+#w-client-form .postbox .button-upload { padding-top: 3px; padding-bottom: 3px; height: auto; }
+#w-client-form .postbox .button-upload .dashicons { padding: 3px 0; }
+#w-client-form .postbox .btn-link-remove { padding: 8px 12px; display: inline-block; }
+#w-client-form .postbox .submit { padding: 0; }
+#w-client-form .column-ID{ width: 50px; }
+#w-client-form .column-picture{ width: 110px; }
+#w-client-form .column-filename{ width: 250px; }
+#w-client-form .column-action{ width: 100px; }
+#w-client-form .picture_description{ width: 100%; height: 60px; }
