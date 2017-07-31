@@ -1,0 +1,17 @@
+/* 
+    Document    :  wm-banner.css
+    Created on  :  25/07/2013
+    Author      :  Wime
+    Description :  This archive stylesheets aims to format the forms this plugin.
+*/
+
+#wm-banner-list #banner_cover { width: 160px; }
+#wm-banner-list #banner_date { width: 160px; }
+
+#wm-banner-form .postbox .hndle { cursor: default; }
+#wm-banner-form .postbox #banner_name { width: 70%; }
+#wm-banner-form .postbox .submit { padding: 0; }
+#wm-banner-form .column-ID{ width: 50px; }
+#wm-banner-form .column-picture{ width: 110px; }
+#wm-banner-form .column-action{ width: 100px; }
+#wm-banner-form .picture_description{ width: 100%; height: 60px; }
